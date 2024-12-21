@@ -1,0 +1,7 @@
+
+11669811   ham      za      jam   0               11-11-1111      bg          0           0        0
+87654321   ez       za      bv    0               11-11-2003      x           0           0        0
+11112222   hamza    hamza   bv    0               20-10-2003      nabeul      0           0        1
+12345567   batata    hamza   bv    0               20-10-2003      nabeul      0           0        1
+12345678   basla    hamza   bv    0               20-10-2003      nabeul      0           0        1
+33333333   mahmoud   haa    bv     0              20-10-2003      nefta        0           0        1
